@@ -1,6 +1,0 @@
-Merge conflict:
-
-Author: brysonm2235 <brmu4265@colorado.edu>
-Date:   Tue Feb 16 04:38:58 2021 +0000
-
-09526d7b31be06fb1945e94ff3db81f6539c8793
